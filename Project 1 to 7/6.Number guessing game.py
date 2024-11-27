@@ -2,8 +2,8 @@
 import random
 
 random_number=random.randint(0,30)
-name=input("enter ur name:")
-print(f"wlcome to word guessing game {name}.... ")
+name=input("Enter Your Name:")
+print(f"Wlcome to Number Guessing Game {name}.... ")
 
 print("guess the number between 0 to 30...")
 
