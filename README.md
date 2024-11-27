@@ -1,6 +1,6 @@
 # Python Mini Projects
 
-This repository contains six mini Python projects showcasing various skills and functionalities. Each project includes a brief description, features, and usage instructions.
+This repository contains seven mini Python projects showcasing various skills and functionalities. Each project includes a brief description, features, and usage instructions.
 
 ## Projects
 
@@ -10,6 +10,7 @@ This repository contains six mini Python projects showcasing various skills and 
 4. [Dice Rolling Game](#4-dice-rolling-game)
 5. [FLAMES Game](#5-flames-game)
 6. [Number Guessing Game](#6-number-guessing-game)
+7. [Word Guessing Game](#7-word-guessing-game)
 
 ---
 
@@ -114,6 +115,25 @@ A number guessing game where the user has to guess a randomly selected number wi
 
 ---
 
+### 7. Word Guessing Game
+
+#### Description
+A word guessing game where the user has to guess a randomly selected word from a list of programming languages, ice cream flavors, and flowers.
+
+#### Features
+- Random word selection.
+- Provides hints based on the category of the word.
+- Tracks user guesses and remaining chances.
+- Fun and interactive gameplay.
+
+#### Usage
+1. Run the `Word_Guessing_Game.py` script.
+2. Enter your name when prompted.
+3. Guess the word based on the hints provided.
+4. Continue guessing until you either win or run out of chances.
+
+---
+
 ## Contributing
 Contributions are welcome! Please fork this repository and submit pull requests.
 
@@ -121,3 +141,4 @@ Contributions are welcome! Please fork this repository and submit pull requests.
 For any questions or feedback, please contact:
 - **Your Name:** [HARINI](mailto:harinib67@.com)
 - **GitHub:** [Harinigitup](https://github.com/Harinigitup)
+
