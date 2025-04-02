@@ -139,6 +139,6 @@ Contributions are welcome! Please fork this repository and submit pull requests.
 
 ## Contact
 For any questions or feedback, please contact:
-- **Your Name:** [HARINI](mailto:harinib67@.com)
-- **GitHub:** [Harinigitup](https://github.com/Harinigitup)
+   [HARINI](mailto:harinib67@.com)
+   [Harinigitup](https://github.com/Harinigitup)
 
